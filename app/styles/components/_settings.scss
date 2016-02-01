@@ -1,0 +1,21 @@
+
+
+// Variables
+$color-first: #5AC5C4;
+$color-second: #DC6446;
+$color-contrast: #32323C;
+$color-border: #808080;
+
+
+// Body style
+body {
+    background:  $color-contrast;
+    position: relative;
+    font-family: 'Poiret One', cursive;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
